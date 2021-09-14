@@ -1,2 +1,2 @@
-# Pentagonum-Prueba
+# Pentagonum
 Prueba grupo ciclo 3
